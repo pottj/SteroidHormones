@@ -17,7 +17,7 @@ Aim: document here all data sources used in SHAY
 
 ## Webpage
 
-- **About**: summary and contact information
+- **About**: summary of project and contact information
 - **Data**:
     - summary of cohorts: name, ethnicity, age range at baseline, number of time points, link to cohort description publication
     - summary of publicly available summary statistics: name, ethnicity, hormone, sample size
