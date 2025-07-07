@@ -13,3 +13,5 @@
 ## Publicly available GWAS summary statistics
 
 tba
+
+- [back to data overview](./)
