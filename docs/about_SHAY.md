@@ -1,4 +1,4 @@
-# About
+# About SHAY
 
 Biological sex is an independent risk factor for many diseases, their progression, and their respective biomarkers. Examples include **coronary artery disease**, **chronic kidney disease**, and **Alzheimer's disease**. Also **immune response** and inflammatory pathways differ between men and women. 
 
