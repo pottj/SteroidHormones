@@ -11,7 +11,7 @@
 |     | Corticosteroids | Sex steroids | 
 | :-- | :-------------- | :----------- |
 | Mainly made in and secreted by | Adrenal cortex | Gonads, placenta |
-| Types by nuclear receptors  | <ul><li>Glucocorticoids (e.g. Cortisol)</li><li>Mineralocorticoids (e.g. Aldosterone)</li></ul> | <ul><li>Androgens (e.g. Testosterone, Androstenedione, DHEA-S)</li><li>Estrogens (e.g. Estradiol)</li><li>Progestogens (e.g. Progesterone, 17-OH-Progesterone)</li></ul> |
+| Types by nuclear receptors  | <ul><li>Glucocorticoids (e.g. Cortisol)</li><li>Mineralocorticoids (e.g. Aldosterone)</li></ul>| <ul><li>Androgens (e.g. Testosterone, Androstenedione, DHEA-S)</li><li>Estrogens (e.g. Estradiol)</li><li>Progestogens (e.g. Progesterone, 17-OH-Progesterone)</li></ul>|
 
 **Other relevant hormones and proteins**:
 - Sex hormone binding globulin (SHBG):
