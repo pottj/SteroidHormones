@@ -1,5 +1,8 @@
 # Steroid hormones
 
+> [!IMPORTANT]
+> The lists within the tables are working in the markdown, but not on the github pages. 
+
 ## Overview
 
 - **Steroid**: metabolite with four fused rings arranged in a specific molecular configuration
@@ -36,7 +39,7 @@ based on a GWAS Catalog lookup (last checked: 16/01/2025)
 | Cortisol | 32,981       | 28       | 1     | <ul><li>_SERPINA6_</li></ul>         |
 | Aldosterone | 3,459     | 4        | 3     | <ul><li>_HSD17B7_</li><li>_UGT1As_</li></ul> |
 | Progesterone | 4,097    | 3        | 13    | <ul><li>_HSD17B12_</li></ul>  
-| Testosterone - men | 194,453 | 82  | >100  | <ul><li>_CYP17A1_</li><li>_CYP19A1_</li><li>_CYP21A2_</li><li>_CYP3A5_</li><li>_CYP7A1_</li><li>_HSD17B11_</li><li>_UGT1As_</li><li>_AKR1C1_</li><li>_SRD5A2_</li><li>_SHBG_</li><li>_SERPINA6_</li></ul> |
+| Testosterone | <ul><li>men: 194,453</li><li>_UGT1As_</li></ul>  women: | 82  | >100  | <ul><li>_CYP17A1_</li><li>_CYP19A1_</li><li>_CYP21A2_</li><li>_CYP3A5_</li><li>_CYP7A1_</li><li>_HSD17B11_</li><li>_UGT1As_</li><li>_AKR1C1_</li><li>_SRD5A2_</li><li>_SHBG_</li><li>_SERPINA6_</li></ul> |
 
 
 ## Sample sizes
