@@ -1,10 +1,10 @@
 # Steroid Hormone Action and its variabilitY (SHAY)
 
-_last updated: 07/07/2025_
+_last updated: 01/08/2025_
 
-In this repository, I want to save the **data management plan** (DMP) for the steroid hormone analyses, and list all relevant cohorts used in the project. 
+In this repository, I want to save the **data management plan** (DMP) for my SHAY project, and in addition list all relevant cohorts used in this or related projects regarding steroid hormone analyses. 
 
-## Data management plan 
+## Data management plan for SHAY
 
 _will be updated when the project starts_
 
@@ -17,7 +17,7 @@ Aim: document here all data sources used in SHAY
 - meta-information of GWAS (genetic control, sample size & case-control numbers, filtering for MAF)
 - code for QC of harmonization per cohort (SNP-ID, lift-over, allele harmonization, column names)
 
-## Cohorts and publicly available data
+## General information, cohorts and publicly available data for steroid hormone projects 
 
 Please check this [overview](./docs/index.html)
 
